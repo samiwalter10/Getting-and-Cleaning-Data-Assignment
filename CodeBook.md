@@ -1,8 +1,9 @@
 #Code Book
 This document summarizes the fields in the tidy_data.txt
+
 ##Identifiers
-*subject - ID of the test subject
-*activity - The type of activity performed when the corresponding measurements were taken
+* subject - ID of the test subject
+* activity - The type of activity performed when the corresponding measurements were taken
 
 ## Measurements
 *timeBodyAccmeanX
